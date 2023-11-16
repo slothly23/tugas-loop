@@ -1,3 +1,17 @@
+// TUGAS INTRO
+
+// Console log data diri
+console.log ("Nur Inayah")
+console.log ("Bima, NTB")
+console.log ("05 Agustus 1997")
+console.log ("26 tahun")
+console.log ("Belum bekerja")
+
+// TUGAS CONDITIONAL
+
+
+// TUGAS LOOPING
+
 // menampilkan teks "User ke - 1 ... User ke - 100"
 for (let user = 1; user < 101; user++) {
     console.log("User ke - ", user);
@@ -18,3 +32,6 @@ for (let count = 0; count <= 20; count++) {
         console.log(count, " adalah bilangan ganjil")
     }
 }
+
+// buat program kuis
+
