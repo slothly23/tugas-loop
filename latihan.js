@@ -115,5 +115,4 @@ for (let count = 0; count <= 20; count++) {
     }
 }
 console.log("-------------------------------------------")
-// buat program kuis
 
