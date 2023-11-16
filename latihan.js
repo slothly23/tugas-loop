@@ -9,3 +9,12 @@ for (let ulang = 0; ulang < 10; ulang++) {
     jumlah += 2;
     console.log(jumlah);
 }
+
+// FOR LOOP pengecekan nilai ganjil atau genap
+for (let count = 0; count <= 20; count++) {
+    if (count%2 === 0){
+        console.log(count, " adalah bilangan genap")
+    } else {
+        console.log(count, " adalah bilangan ganjil")
+    }
+}
