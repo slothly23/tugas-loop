@@ -9,6 +9,7 @@ Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuh
 Looping digunakan ketika kita ingin menjalankan sejumlah instruksi atau tugas berulang kali, berdasarkan kondisi tertentu.
 
 3.Sebutkan 3 looping yang dapat digunakan dan fungsi masing-masing looping
+
 FOR LOOP, digunakan jika kita tahu seberapa banyak nilai pasti untuk pengulangannya.
 WHILE LOOP, digunakan ketika menjalankan instruksi pengulangan kondisi bernilai TRUE.
 DO WHILE, digunakan ketika kita ingin setidaknya menjalankan pengulangan 1 kali sebelum dilakukan pengecekan kondisi.
